@@ -15,7 +15,7 @@ array(
     'translate' => '0',
     'vid' => '1',
     'revision_uid' => '1',
-    'title' => 'Art Restaurant',
+    'title' => 'Art Website',
     'body' => '<p><span style=\"font-weight: bold;\">Welcome to Art Site.</span> This is a placeholder page for the artist website.</p><p>Mark Rothko was born in Dvinsk, Vitebsk Province, Russian Empire. His father, Jacob Rothkowitz, was a pharmacist and an intellectual, who provided his children with a secular and political, rather than religious, upbringing. Unlike Jews in most cities of Czarist Russia, those in Dvinsk had been spared from violent outbreaks of anti-Semitic pogroms. However, in an environment where Jews were often blamed for many of the evils that befell Russia.</p>',
     'teaser' => '<p><span style=\"font-weight: bold;\">Welcome to Art Site.</span> This is a placeholder page for the artist website.  Mark Rothko painted the above.</p>',
     'log' => '',

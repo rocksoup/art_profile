@@ -375,7 +375,7 @@ function art_config_theme() {
   // Enable Rubik
   db_query("UPDATE {system} SET status = 1 WHERE type = 'theme' and name = '%s'", art_THEME_ADMIN);
   
-  // Enable Commons theme
+  // Enable Cube theme
   db_query("UPDATE {system} SET status = 1 WHERE type = 'theme' and name = '%s'", art_THEME);
   
   // Set Rubik theme as the default
